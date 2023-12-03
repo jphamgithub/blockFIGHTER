@@ -1,2 +1,42 @@
 # blockFIGHTER
-blockFIGHTER is a dynamic and action-packed game where simplicity meets excitement in a world of blocky combat. In this game, players take control of minimalist block-shaped fighters in a straightforward, no-frills fighting arena.
+
+## Getting Started
+
+These instructions will get you a copy of the game up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Before running the game, make sure you have Python installed on your system. If you do not have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
+
+Additionally, you need to have Pygame installed, which is a set of Python modules designed for writing video games. Install Pygame using pip:
+
+
+bash:
+```
+pip install pygame
+```
+## Installation
+To play blockFIGHTER, you need to clone the repository from GitHub and run the game using Python.
+Open your terminal and clone the repository using the following command:
+
+```
+git clone https://github.com/jphamgithub/blockFIGHTER.git
+```
+
+Change the directory to the repository folder:
+
+```
+cd blockFIGHTER
+```
+
+Run the Game
+Now, you can run the game using Python:
+```
+python blockFIGHTER.py
+```
+
+This command will start the game, and you should see the game window open.
+
+If this fails. Try just navigating to the game in Windows File Explorer and double clicking the python file!
+
+Enjoy playing blockFIGHTER!
