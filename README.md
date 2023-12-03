@@ -37,6 +37,6 @@ python blockFIGHTER.py
 
 This command will start the game, and you should see the game window open.
 
-If this fails. Try just navigating to the game in Windows File Explorer and double clicking the python file!
+**If this fails. Try just navigating to the game in Windows File Explorer and double clicking the python file!**
 
 Enjoy playing blockFIGHTER!
