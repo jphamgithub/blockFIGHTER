@@ -66,7 +66,9 @@ story_lines = [
     "Before it beats you.",
     "There is no end.",
     "Just beat this block as many times as you can.",
-    "Give up at supper time."
+    "Give up at supper time.",
+    "Arrow Keys to Move and Spacebar to punch!.",
+    "Have fun!"
 ]
 
 # Display intro story
