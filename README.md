@@ -40,3 +40,14 @@ This command will start the game, and you should see the game window open.
 **If this fails. Try just navigating to the game in Windows File Explorer and double clicking the python file!**
 
 Enjoy playing blockFIGHTER!
+
+## Play in Docker
+
+Now with Docker support! If you're OVER installing more and more dependencies just use Docker and be done with it! No more installing pygame just to beat up some blocks.
+
+```
+git clone https://github.com/jphamgithub/blockFIGHTER
+cd blockFIGHTER
+docker build -t blockfighter .
+docker run -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix blockfighter
+```
